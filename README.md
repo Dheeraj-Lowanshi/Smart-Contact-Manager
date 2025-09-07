@@ -1,43 +1,31 @@
-# 📞 Smart Contact Manager (SCM)
+# 📇 Smart Contact Manager  
 
-Smart Contact Manager (SCM) is a **modern web application** built with **Spring Boot, Thymeleaf, Tailwind, and Spring Security** that helps you manage your contacts with style, simplicity, and top-notch security.  
-
-It allows you to **store, organize, and access contacts anytime, anywhere** — with cloud access, secure authentication, and a clean user-friendly interface.  
+> 🚀 A full-stack **Spring Boot + Thymeleaf** web application to securely manage personal and professional contacts in one place.  
 
 ---
 
-## 🌟 Features
+## ✨ Overview  
 
-✅ **User-Friendly Dashboard** – Intuitive and responsive UI for smooth navigation.  
-✅ **Contact Management** – Add, edit, delete, and view contacts easily.  
-✅ **Secure Authentication** – Spring Security with password encryption and login/signup system.  
-✅ **Social Login** – Sign in quickly using Google or GitHub (OAuth 2.0).  
-✅ **Dark/Light Mode** – Switch between modern themes for better experience.  
-✅ **Export Contacts** – Download contacts in Excel/CSV format for backup.  
-✅ **Cloud Access** – Access your data from anywhere, anytime.  
-✅ **Profile Management** – Manage user details with profile picture, email, phone verification.  
+Smart Contact Manager (SCM) is designed to make contact management **simple, secure, and efficient**.  
+Users can **register, log in, and manage contacts** with features like:  
+
+- Add, update, delete, and search contacts  
+- Upload profile pictures for each contact  
+- Role-based authentication with Spring Security  
+- Responsive UI powered by **Bootstrap 5 & Tailwind CSS**  
+- Centralized dashboard for easy navigation  
 
 ---
 
-## 📸 Project Screenshots  
+## 🔥 Features  
 
-### 🏠 Home Page  
-![Home Page](images/home.png)  
-
-### ℹ️ About Page  
-![About Page](images/about.png)  
-
-### 🛠 Services Page  
-![Services](images/services.png)  
-
-### 👥 All Contacts  
-![All Contacts](images/show all contacts.png)  
-
-### 📑 Full Contact Details  
-![Full Contact Details](images/full contact details.png)  
-
-### 👤 User Profile  
-![User Profile](images/user Profile - Copy.png)  
+✅ **User Authentication** – Secure login & signup using Spring Security  
+✅ **Add Contacts** – Store name, phone, email, and additional details  
+✅ **Edit/Delete Contacts** – Manage contacts with ease  
+✅ **Search Contacts** – Quickly find people with smart search  
+✅ **Profile Upload** – Attach profile images to each contact  
+✅ **Role-based Access** – Admin & User privileges  
+✅ **Beautiful UI** – Responsive design with Thymeleaf + Bootstrap  
 
 ---
 
