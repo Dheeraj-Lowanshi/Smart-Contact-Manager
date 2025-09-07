@@ -1,29 +1,44 @@
-🔐 Smart Contact Manager (SCM) A secure, full-stack contact management web application built with Spring Boot, Spring Security, Thymeleaf, and Tailwind CSS. SCM allows users to register, log in via OAuth2 (Google & GitHub), and manage their personal contacts with features like email verification, contact search, profile photo upload, and Excel export.
+# 📇 Smart Contact Manager  
 
-🚀 Key Features: 🔑 Login with Google & GitHub (OAuth2)
+> 🚀 A full-stack **Spring Boot + Thymeleaf** web application to securely manage personal and professional contacts in one place.  
 
-📧 Email verification on registration
+---
 
-📇 Add, update, delete, and view contact details
+## ✨ Overview  
 
-📤 Export all contacts as Excel
+Smart Contact Manager (SCM) is designed to make contact management **simple, secure, and efficient**.  
+Users can **register, log in, and manage contacts** with features like:  
 
-🔍 Search contacts by name, phone, or email
+- Add, update, delete, and search contacts  
+- Upload profile pictures for each contact  
+- Role-based authentication with Spring Security  
+- Responsive UI powered by **Bootstrap 5 & Tailwind CSS**  
+- Centralized dashboard for easy navigation  
 
-🌙 Clean and responsive UI with dark mode
+---
 
-🖼️ Upload contact profile images
+## 🔥 Features  
 
-🔒 Secure user authentication and contact data handling
+✅ **User Authentication** – Secure login & signup using Spring Security  
+✅ **Add Contacts** – Store name, phone, email, and additional details  
+✅ **Edit/Delete Contacts** – Manage contacts with ease  
+✅ **Search Contacts** – Quickly find people with smart search  
+✅ **Profile Upload** – Attach profile images to each contact  
+✅ **Role-based Access** – Admin & User privileges  
+✅ **Beautiful UI** – Responsive design with Thymeleaf + Bootstrap  
 
-🛠️ Tech Stack: Backend: Spring Boot, Spring Security, Spring Data JPA
+---
 
-Frontend: Thymeleaf, Tailwind CSS
+## 🛠️ Tech Stack  
 
-Database: MySQL
+| Layer         | Technology |
+|---------------|------------|
+| 🎨 Frontend   | HTML5, CSS3, Bootstrap 5, Tailwind, Thymeleaf |
+| ⚙️ Backend    | Java, Spring Boot, Spring MVC, Spring Data JPA |
+| 🔐 Security   | Spring Security, |
+| 🗄️ Database   | MySQL / PostgreSQL |
+| ☁️ IDE        | VS Code, Intellij IDEA |
 
-Authentication: OAuth2 (Google, GitHub)
+---
 
-Server: Apache Tomcat
-
-IDE: VS Code, Spring Tool Suite
+## 🚀 Getting Started  
